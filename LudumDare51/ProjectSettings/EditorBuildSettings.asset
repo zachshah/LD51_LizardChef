@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: aa706172e8d405c4ab5650a62f4e475d
+  - enabled: 1
+    path: Assets/Scenes/letter.unity
+    guid: 46bd1314669c63e448ac6075d679e043
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: 83870d0da33be0541af6d094359163aa
+  - enabled: 1
+    path: Assets/Scenes/cheeseburger.unity
+    guid: b970b1f8ded3d0042be5b8cc44efdc60
+  - enabled: 1
+    path: Assets/Scenes/showtime.unity
+    guid: af876ec652c607546a43d7c8dfa0816a
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/end.unity
+    guid: a158a1ecb15cf6945bc431466e083b39
+  m_configObjects: {}
